@@ -1,4 +1,4 @@
-# Decision-Structure-Activity
+# Computes total bill of orders
 
 An activity to practice If-Else in Python
 
