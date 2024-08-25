@@ -1,3 +1,6 @@
+# PINEDA, SOPHIA KEZIAH G. ICT - 107 | PRELIM ACTIVITY | FIRST YEAR
+# DECISION STRUCTURE ACTIVITY
+
 # Computes for the total bill of customer's order
 
 total_bill = 0
